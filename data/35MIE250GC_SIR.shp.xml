@@ -1,0 +1,877 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en">
+	
+   <Esri>
+		
+      <CreaDate>20141217</CreaDate>
+		
+      <CreaTime>15154600</CreaTime>
+		
+      <ArcGISFormat>1.0</ArcGISFormat>
+		
+      <ArcGISstyle>ISO 19139 Metadata Implementation Specification</ArcGISstyle>
+		
+      <SyncOnce>FALSE</SyncOnce>
+		
+      <scaleRange>
+			
+         <minScale>150000000</minScale>
+			
+         <maxScale>5000</maxScale>
+		
+      </scaleRange>
+		
+      <DataProperties>
+			
+         <itemProps>
+				
+            <imsContentType export="False"/>
+				
+            <itemLocation>
+					
+               <linkage Sync="TRUE">file://\\sul-gislab\gis_shared\GIS_Lab\DATA\Brazil_Municipalities_2001\Municipio_2010\SP\sp_microrregioes\35MIE250GC_SIR.shp</linkage>
+					
+               <protocol Sync="TRUE">Local Area Network</protocol>
+				
+            </itemLocation>
+				
+            <itemName Sync="TRUE">35MIE250GC_SIR</itemName>
+				
+            <nativeExtBox>
+					
+               <westBL Sync="TRUE">-53.110112</westBL>
+					
+               <eastBL Sync="TRUE">-44.161365</eastBL>
+					
+               <southBL Sync="TRUE">-25.312321</southBL>
+					
+               <northBL Sync="TRUE">-19.779656</northBL>
+					
+               <exTypeCode Sync="TRUE">1</exTypeCode>
+				
+            </nativeExtBox>
+				
+            <itemSize Sync="TRUE">7.031</itemSize>
+			
+         </itemProps>
+			
+         <copyHistory>
+				
+            <copy date="20141217" dest="\\SUL-GISLAB\GIS_Shared\GIS_Lab\DATA\Brazil_Municipalities_2010\Municipio_2010\france" source="Q:\France_SubnationalBoundaries_2010_CarticqueFrance\Carticque_Admin_France_2010_SHP_L93m\france" time="15154600"/>
+			
+         </copyHistory>
+			
+         <coordRef>
+				
+            <type Sync="TRUE">Geographic</type>
+				
+            <geogcsn Sync="TRUE">SIRGAS 2000</geogcsn>
+				
+            <csUnits Sync="TRUE">Angular Unit: Degree (0.017453)</csUnits>
+				
+            <peXml Sync="TRUE">&lt;GeographicCoordinateSystem xsi:type='typens:GeographicCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.4'&gt;&lt;WKT&gt;GEOGCS[&amp;quot;SIRGAS 2000&amp;quot;,DATUM[&amp;quot;D_SIRGAS2000&amp;quot;,SPHEROID[&amp;quot;Geodetic_Reference_System_of_1980&amp;quot;,6378137.0,298.2572221009113]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433]]&lt;/WKT&gt;&lt;XOrigin&gt;-400&lt;/XOrigin&gt;&lt;YOrigin&gt;-400&lt;/YOrigin&gt;&lt;XYScale&gt;11258999068426.238&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;8.9831528411952133e-009&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;LeftLongitude&gt;-180&lt;/LeftLongitude&gt;&lt;/GeographicCoordinateSystem&gt;</peXml>
+			
+         </coordRef>
+		
+      </DataProperties>
+		
+      <ArcGISProfile>ISO19139</ArcGISProfile>
+		
+      <ModDate>20170901</ModDate>
+		
+      <ModTime>09300100</ModTime>
+		
+      <SyncDate>20170901</SyncDate>
+		
+      <SyncTime>09300100</SyncTime>
+	
+   </Esri>
+	
+   <dataIdInfo>
+		
+      <idCredit>Instituto Brasileiro de Geografia e Estatística. (2011). Microregion Boundaries: São Paulo, Brasil, 2010 IBGE. Available at: http://purl.stanford.edu/wk735ny5930</idCredit>
+		
+      <themeKeys>
+			
+         <thesaName>
+				
+            <resTitle>lcsh</resTitle>
+				
+            <date>
+					
+               <reviseDate>2011-04-26T00:00:00</reviseDate>
+				
+            </date>
+				
+            <citId>
+					
+               <identCode>http://id.loc.gov/authorities/subjects.html</identCode>
+				
+            </citId>
+			
+         </thesaName>
+			
+         <keyword>Regions</keyword>
+		
+      </themeKeys>
+		
+      <placeKeys>
+			
+         <thesaName>
+				
+            <resTitle>geonames</resTitle>
+				
+            <date>
+					
+               <reviseDate>2012-11-01T00:00:00</reviseDate>
+				
+            </date>
+				
+            <resEd>3.1</resEd>
+				
+            <citId>
+					
+               <identCode>http://www.geonames.org/ontology#</identCode>
+				
+            </citId>
+			
+         </thesaName>
+			
+         <keyword>São Paulo (Brazil)</keyword>
+		
+      </placeKeys>
+		
+      <idCitation>
+			
+         <citId>
+				
+            <identCode>http://purl.stanford.edu/wk735ny5930</identCode>
+         </citId>
+			
+         <collTitle>Evolução da divisão territorial do Brasil 1872 - 2010</collTitle>
+			
+         <date>
+				
+            <pubDate>2011-01-01T00:00:00</pubDate>
+			
+         </date>
+			
+         <citRespParty>
+				
+            <rpOrgName>Instituto Brasileiro de Geografia e Estatística</rpOrgName>
+				
+            <role>
+					
+               <RoleCd value="006"/>
+				
+            </role>
+			
+         </citRespParty>
+			
+         <citRespParty>
+				
+            <rpOrgName>Instituto Brasileiro de Geografia e Estatística</rpOrgName>
+				
+            <role>
+					
+               <RoleCd value="010"/>
+				
+            </role>
+				
+            <rpCntInfo>
+					
+               <cntAddress addressType="">
+						
+                  <city>Rio de Janeiro</city>
+						
+                  <country>BR</country>
+					
+               </cntAddress>
+				
+            </rpCntInfo>
+			
+         </citRespParty>
+			
+         <resEd>1</resEd>
+			
+         <resTitle>Microregion Boundaries: São Paulo, Brasil, 2010</resTitle>
+			
+         <presForm>
+				
+            <PresFormCd Sync="TRUE" value="005"/>
+			
+         </presForm>
+		
+      </idCitation>
+		
+      <dataExt>
+			
+         <exDesc>ground condition</exDesc>
+			
+         <tempEle>
+				
+            <TempExtent>
+					
+               <exTemp>
+						
+                  <TM_Instant>
+							
+                     <tmPosition>2010-12-31T00:00:00</tmPosition>
+						
+                  </TM_Instant>
+					
+               </exTemp>
+				
+            </TempExtent>
+			
+         </tempEle>
+		
+      </dataExt>
+		
+      <dataLang>
+			
+         <languageCode value="por"/>
+			
+         <countryCode Sync="TRUE" value="USA"/>
+		
+      </dataLang>
+		
+      <dataChar>
+			
+         <CharSetCd value="004"/>
+		
+      </dataChar>
+		
+      <resConst>
+			
+         <LegConsts>
+				
+            <useLimit/>
+			
+         </LegConsts>
+		
+      </resConst>
+		
+      <aggrInfo>
+			
+         <assocType>
+				
+            <AscTypeCd value="002"/>
+			
+         </assocType>
+			
+         <initType>
+				
+            <InitTypCd value="002"/>
+			
+         </initType>
+			
+         <aggrDSName>
+				
+            <resTitle>Evolução da divisão territorial do Brasil 1872 - 2010</resTitle>
+				
+            <citId>
+					
+               <identCode>http://purl.stanford.edu/pk905gn2555</identCode>
+				
+            </citId>
+				
+            <date>
+					
+               <pubDate>2011-01-01T00:00:00</pubDate>
+				
+            </date>
+				
+            <resEd>1</resEd>
+				
+            <citRespParty>
+					
+               <rpOrgName>Instituto Brasileiro de Geografia e Estatística</rpOrgName>
+					
+               <role>
+						
+                  <RoleCd value="010"/>
+					
+               </role>
+					
+               <rpCntInfo>
+						
+                  <cntAddress addressType="physical">
+							
+                     <city>Rio de Janeiro</city>
+							
+                     <country>BR</country>
+						
+                  </cntAddress>
+						
+                  <cntPhone>
+							
+                     <voiceNum tddtty="">+33 (0)2 47 49 63 21</voiceNum>
+						
+                  </cntPhone>
+					
+               </rpCntInfo>
+					
+               <displayName>Articque informatique</displayName>
+				
+            </citRespParty>
+				
+            <citRespParty>
+					
+               <rpOrgName>Articque informatique</rpOrgName>
+					
+               <role>
+						
+                  <RoleCd value="006"/>
+					
+               </role>
+					
+               <displayName>Articque informatique</displayName>
+				
+            </citRespParty>
+			
+         </aggrDSName>
+		
+      </aggrInfo>
+		
+      <idPurp>This dataset is intended for researchers, students, and policy makers for reference and mapping purposes, and may be used for basic applications such as viewing, querying, and map output production, or to provide a basemap to support graphical overlays and analysis with other spatial data.</idPurp>
+		
+      <idAbs>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;This polygon shapefile contains the microregion boundaries for the state of São Paulo, Brazil, in 2010. Microregions are legally defined administrative areas in Brazil consisting of groups of municipalities bordering urban areas. Microregions are grouped together into mesoregions. In principle, Brazilian law provides for member municipalities to cooperate on matters of common interest, but in practice, these divisions are primarily used for statistical purposes by the Brazilian Institute of Geography and Statistics. This layer is part of the Evolução da divisão territorial do Brasil 1872 - 2010 dataset, a collection of data representing the evolution of Brazilian states, municipalities and cities.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</idAbs>
+		
+      <idPoC>
+			
+         <rpOrgName>Instituto Brasileiro de Geografia e Estatística</rpOrgName>
+			
+         <role>
+				
+            <RoleCd value="007"/>
+			
+         </role>
+			
+         <rpCntInfo>
+				
+            <cntAddress addressType="physical">
+					
+               <city>Rio de Janeiro</city>
+					
+               <eMailAdd>ibge@ibge.gov.br</eMailAdd>
+					
+               <country>BR</country>
+				
+            </cntAddress>
+			
+         </rpCntInfo>
+		
+      </idPoC>
+		
+      <tempKeys>
+			
+         <keyword>2010</keyword>
+		
+      </tempKeys>
+		
+      <idStatus>
+			
+         <ProgCd value="001"/>
+		
+      </idStatus>
+		
+      <resMaint>
+			
+         <maintFreq>
+				
+            <MaintFreqCd value="012"/>
+			
+         </maintFreq>
+		
+      </resMaint>
+		
+      <dataScale>
+			
+         <equScale>
+				
+            <rfDenom>2500000</rfDenom>
+			
+         </equScale>
+		
+      </dataScale>
+		
+      <envirDesc Sync="TRUE"> Version 6.2 (Build 9200) ; Esri ArcGIS 10.4.1.5686</envirDesc>
+		
+      <spatRpType>
+			
+         <SpatRepTypCd Sync="TRUE" value="001"/>
+		
+      </spatRpType>
+		
+      <dataExt>
+			
+         <geoEle>
+				
+            <GeoBndBox esriExtentType="search">
+					
+               <exTypeCode Sync="TRUE">1</exTypeCode>
+					
+               <westBL Sync="TRUE">-53.110112</westBL>
+					
+               <eastBL Sync="TRUE">-44.161365</eastBL>
+					
+               <northBL Sync="TRUE">-19.779656</northBL>
+					
+               <southBL Sync="TRUE">-25.312321</southBL>
+				
+            </GeoBndBox>
+			
+         </geoEle>
+		
+      </dataExt>
+		
+      <tpCat>
+			
+         <TopicCatCd value="003"/>
+		
+      </tpCat>
+	
+   </dataIdInfo>
+	
+   <mdHrLv>
+		
+      <ScopeCd value="005"/>
+	
+   </mdHrLv>
+	
+   <mdFileID>edu.stanford.purl:wk735ny5930</mdFileID>
+   <mdParentID>http://purl.stanford.edu/pk905gn2555.mods</mdParentID>
+	
+   <mdLang>
+		
+      <languageCode value="eng"/>
+		
+      <countryCode Sync="TRUE" value="USA"/>
+	
+   </mdLang>
+	
+   <mdChar>
+		
+      <CharSetCd value="004"/>
+	
+   </mdChar>
+	
+   <dataSetURI>http://purl.stanford.edu/wk735ny5930</dataSetURI>
+   <mdContact>
+		
+      <rpOrgName>Stanford Geospatial Center</rpOrgName>
+		
+      <rpCntInfo>
+			
+         <cntAddress addressType="physical">
+				
+            <delPoint>Branner Earth Sciences Library</delPoint>
+				
+            <city>Stanford</city>
+				
+            <adminArea>California</adminArea>
+				
+            <postCode>94305</postCode>
+				
+            <eMailAdd>brannerlibrary@stanford.edu</eMailAdd>
+				
+            <delPoint>Mitchell Building, 2nd Floor</delPoint>
+				
+            <delPoint>397 Panama Mall</delPoint>
+			
+         </cntAddress>
+			
+         <cntPhone>
+				
+            <voiceNum tddtty="">650-723-2746</voiceNum>
+			
+         </cntPhone>
+		
+      </rpCntInfo>
+		
+      <displayName>Stanford Geospatial Center</displayName>
+		
+      <displayName>Stanford Geospatial Center</displayName>
+		
+      <role>
+			
+         <RoleCd value="007"/>
+		
+      </role>
+	
+   </mdContact>
+	
+   <contInfo>
+		
+      <FetCatDesc>
+			
+         <compCode>False</compCode>
+			
+         <catLang>
+				
+            <languageCode value="eng"/>
+			
+         </catLang>
+			
+         <incWithDS>True</incWithDS>
+			
+         <catCitation>
+				
+            <resTitle>Feature Catalog for Microregion Boundaries: São Paulo, Brazil, 2010</resTitle>
+				
+            <citId>
+					
+               <identCode>dd6a019a-83bc-4984-94b1-a73245cfe961</identCode>
+            </citId>
+				
+            <date>
+					
+               <pubDate>2011-01-01T00:00:00</pubDate>
+				
+            </date>
+				
+            <citRespParty>
+					
+               <rpOrgName>Instituto Brasileiro de Geografia e Estatística</rpOrgName>
+					
+               <role>
+						
+                  <RoleCd value="006"/>
+					
+               </role>
+					
+               <displayName>Instituto Brasileiro de Geografia e Estatística</displayName>
+				
+            </citRespParty>
+			
+         </catCitation>
+		
+      </FetCatDesc>
+	
+   </contInfo>
+	
+   <distInfo>
+		
+      <distTranOps>
+			
+         <onLineSrc>
+				
+            <linkage>http://purl.stanford.edu/wk735ny5930</linkage>
+            <protocol>http</protocol>
+				
+            <orFunct>
+					
+               <OnFunctCd value="001"/>
+				
+            </orFunct>
+				
+            <orName>35MIE250GC_SIR.shp</orName>
+         </onLineSrc>
+			
+         <transSize Sync="TRUE">7.031</transSize>
+		
+      </distTranOps>
+		
+      <distributor>
+			
+         <distorCont>
+				
+            <rpOrgName>Stanford Geospatial Center</rpOrgName>
+				
+            <rpCntInfo>
+					
+               <cntAddress addressType="physical">
+						
+                  <delPoint>Branner Earth Sciences Library</delPoint>
+						
+                  <city>Stanford</city>
+						
+                  <adminArea>California</adminArea>
+						
+                  <postCode>94305</postCode>
+						
+                  <eMailAdd>brannerlibrary@stanford.edu</eMailAdd>
+						
+                  <delPoint>Mitchell Building, 2nd Floor</delPoint>
+						
+                  <delPoint>397 Panama Mall</delPoint>
+					
+               </cntAddress>
+					
+               <cntPhone>
+						
+                  <voiceNum tddtty="">650-723-2746</voiceNum>
+					
+               </cntPhone>
+				
+            </rpCntInfo>
+				
+            <displayName>Stanford Geospatial Center</displayName>
+				
+            <displayName>Stanford Geospatial Center</displayName>
+				
+            <role>
+					
+               <RoleCd value="005"/>
+				
+            </role>
+				
+            <displayName>Stanford Geospatial Center</displayName>
+			
+         </distorCont>
+		
+      </distributor>
+		
+      <distFormat>
+			
+         <formatName Sync="TRUE">Shapefile</formatName>
+		
+      </distFormat>
+	
+   </distInfo>
+	
+   <dqInfo>
+		
+      <dqScope>
+			
+         <scpLvl>
+				
+            <ScopeCd value="005"/>
+			
+         </scpLvl>
+		
+      </dqScope>
+	
+   </dqInfo>
+	
+   <refSysInfo>
+		
+      <RefSystem dimension="">
+			
+         <refSysID>
+				
+            <identCode code="4618"/>
+				
+            <idCodeSpace>EPSG</idCodeSpace>
+				
+            <idVersion Sync="TRUE">8.2.6</idVersion>
+			
+         </refSysID>
+		
+      </RefSystem>
+	
+   </refSysInfo>
+	
+   <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+	
+   <spatRepInfo>
+		
+      <VectSpatRep>
+         <geometObjs Name="35MIE250GC_SIR">
+            <geoObjTyp>
+               <GeoObjTypCd Sync="TRUE" value="002"/>
+            </geoObjTyp>
+            <geoObjCnt Sync="TRUE">63</geoObjCnt>
+         </geometObjs>
+         <topLvl>
+            <TopoLevCd Sync="TRUE" value="001"/>
+         </topLvl>
+      </VectSpatRep>
+   </spatRepInfo>
+	
+   <spdoinfo>
+		
+      <ptvctinf>
+         <esriterm Name="35MIE250GC_SIR">
+            <efeatyp Sync="TRUE">Simple</efeatyp>
+            <efeageom Sync="TRUE" code="4"/>
+            <esritopo Sync="TRUE">FALSE</esritopo>
+            <efeacnt Sync="TRUE">63</efeacnt>
+            <spindex Sync="TRUE">FALSE</spindex>
+            <linrefer Sync="TRUE">TRUE</linrefer>
+         </esriterm>
+      </ptvctinf>
+   </spdoinfo>
+	
+   <eainfo>
+		
+      <detailed Name="35MIE250GC_SIR">
+			
+         <enttyp>
+				
+            <enttypl Sync="TRUE">35MIE250GC_SIR</enttypl>
+				
+            <enttypt Sync="TRUE">Feature Class</enttypt>
+				
+            <enttypc Sync="TRUE">63</enttypc>
+			
+         </enttyp>
+			
+         <attr>
+				
+            <attrlabl Sync="TRUE">FID</attrlabl>
+				
+            <attalias Sync="TRUE">FID</attalias>
+				
+            <attrtype Sync="TRUE">OID</attrtype>
+				
+            <attwidth Sync="TRUE">4</attwidth>
+				
+            <atprecis Sync="TRUE">0</atprecis>
+				
+            <attscale Sync="TRUE">0</attscale>
+				
+            <attrdef Sync="TRUE">Internal feature number.</attrdef>
+				
+            <attrdefs Sync="TRUE">Esri</attrdefs>
+				
+            <attrdomv>
+					
+               <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				
+            </attrdomv>
+			
+         </attr>
+			
+         <attr>
+				
+            <attrlabl Sync="TRUE">Shape</attrlabl>
+				
+            <attalias Sync="TRUE">Shape</attalias>
+				
+            <attrtype Sync="TRUE">Geometry</attrtype>
+				
+            <attwidth Sync="TRUE">0</attwidth>
+				
+            <atprecis Sync="TRUE">0</atprecis>
+				
+            <attscale Sync="TRUE">0</attscale>
+				
+            <attrdef Sync="TRUE">Feature geometry.</attrdef>
+				
+            <attrdefs Sync="TRUE">Esri</attrdefs>
+				
+            <attrdomv>
+					
+               <udom Sync="TRUE">Coordinates defining the features.</udom>
+				
+            </attrdomv>
+			
+         </attr>
+			
+         <attr>
+            <attrlabl Sync="TRUE">ID</attrlabl>
+            <attalias Sync="TRUE">ID</attalias>
+            <attrtype Sync="TRUE">Double</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <atprecis Sync="TRUE">11</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">NM_MICRO</attrlabl>
+            <attalias Sync="TRUE">NM_MICRO</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">100</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">CD_GEOCODU</attrlabl>
+            <attalias Sync="TRUE">CD_GEOCODU</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">2</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+      </detailed>
+	
+   </eainfo>
+	
+   <mdDateSt Sync="TRUE">20170901</mdDateSt>
+	
+   <Binary>
+		
+      <Thumbnail>
+			
+         <Data EsriPropertyType="PictureX">/9j/4AAQSkZJRgABAQEAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
+HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCACFAMgDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iii
+gAooooAKKKKACimSTJEAXOM9AAST9AKp3V1KIWdcwhfXBZj6DqKzqVYU/iY0rl+iqb3csMZaSOMg
+cZDkFuwwMdT6ZqT7Uf8An3l/Nf8AGpWIpPXmCzLFFVF1CLyy8iSxgHGChP8A6DnvxVutIyjLVMQU
+UUm5QwXcNxBIGeSB/wDrFUAtFRNcwocF8nvtBOOcc46dD+VJHdQzSMkb7mXrwcfgeh6ilzK9gJqK
+KKYBRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABUUswiIXazMeQq+n40+RxFE8hGQqljj2qsqnJZ8F2
++8R/Ie1c2Jr+yjpuyoq40SGS4YuuxsfIpOfl7n8+v0FNusCAsTjaQd393nr+FFxGrKJGaRSgP3Dg
+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
+FFFFABRRRQAUUUUAFFFFAH//2Q==</Data>
+		
+      </Thumbnail>
+	
+   </Binary>
+
+</metadata>
